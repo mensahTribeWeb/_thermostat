@@ -1,38 +1,102 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+/* .smart-thermostat {
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  align-items: center;
+  margin: 50px auto;
+  max-width: 500px;
+}
+
+.smart-thermostat button {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #4CAF50;
   color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
 }
 
-.App-link {
-  color: #61dafb;
+.smart-thermostat button:hover {
+  background-color: #3e8e41;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.smart-thermostat button:active {
+  background-color: #2980b9;
 }
+
+.smart-thermostat input[type="number"] {
+  width: 80px;
+  margin: 0 10px;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.smart-thermostat label {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.smart-thermostat select {
+  margin-left: 10px;
+}
+
+.temperature-display {
+  font-size: 24px;
+  margin-bottom: 10px;
+  text
+}
+
+
+.temperature-setting {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.temperature-setting button {
+  margin: 0 5px;
+  padding: 5px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.temperature-setting button:hover {
+  background-color: #3e8e41;
+}
+
+.temperature-setting button:active {
+  background-color: #2980b9;
+}
+.schedule-setting {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.schedule-setting label {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.schedule-setting select {
+  margin-left: 10px;
+}
+
+.schedule-setting input[type="number"] {
+  width: 80px;
+  margin-right: 10px;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 5px;
+} */
