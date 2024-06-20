@@ -104,5 +104,13 @@ For more detailed information on these scripts, refer to the [Create React App d
 [Create React App documentation](https://create-react-app.dev/docs/getting-started/)
 [Spring Boot documentation](https://spring.io/projects/spring-boot)
 
+## Contact
+
+LinkedIn: [@Nicholas D. Mensah](https://www.linkedin.com/in/nicholas-d-mensah/)  
+Twitter: [@Nokoredev](https://twitter.com/MensahTribeWDev)  
+GitHub: [@mensahTribeWeb](https://github.com/mensahTribeWeb)  
+Website: [nokore.dev](https://nokore.dev)  
+Email: [nickmensah@nokore.dev](mailto:nickmensah@nokore.dev)
+
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
