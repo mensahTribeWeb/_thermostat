@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Smart Thermostat Deliberate Practice
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/mensahTribeWeb/_thermostat/assets/103342287/2b0b4fff-f5cf-4586-8a16-d23bf4e8f728)
+
+
+
 
 ## Available Scripts
 
