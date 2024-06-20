@@ -1,14 +1,14 @@
 # Smart Thermostat Deliberate Practice
 
 ## Project Overview
-The Smart Thermostat Deliberate Practice project simulates the functionality of a modern smart thermostat system. This application serves as a comprehensive practice environment for developers to build and understand full-stack applications involving real-time data processing, user interface management, and system integration.
+The Smart Thermostat Deliberate Practice project simulates the functionality of a modern smart thermostat system. This application is a comprehensive practice environment for developers to build and understand full-stack applications involving real-time data processing, user interface management, and system integration.
 
 ## Features
 - Real-time Temperature Monitoring: Continuously updates and displays the current temperature.
 - Temperature Adjustment: Allows users to increase or decrease the temperature setting.
 - Schedule Management: Users can set temperature schedules for different times of the day.
 - User-Friendly Interface: Built with React for a responsive and intuitive user experience.
-- Backend Integration: Utilizes Spring Boot for managing thermostat settings and schedules.
+- Backend Integration: Utilizes Spring Boot to manage thermostat settings and schedules.
 
 ![image](https://github.com/mensahTribeWeb/_thermostat/assets/103342287/2b0b4fff-f5cf-4586-8a16-d23bf4e8f728)
 
