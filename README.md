@@ -1,8 +1,20 @@
 # Smart Thermostat Deliberate Practice
 
+## Project Overview
+The Smart Thermostat Deliberate Practice project simulates the functionality of a modern smart thermostat system. This application serves as a comprehensive practice environment for developers to build and understand full-stack applications involving real-time data processing, user interface management, and system integration.
+
+## Features
+- Real-time Temperature Monitoring: Continuously updates and displays the current temperature.
+- Temperature Adjustment: Allows users to increase or decrease the temperature setting.
+- Schedule Management: Users can set temperature schedules for different times of the day.
+- User-Friendly Interface: Built with React for a responsive and intuitive user experience.
+- Backend Integration: Utilizes Spring Boot for managing thermostat settings and schedules.
+
 ![image](https://github.com/mensahTribeWeb/_thermostat/assets/103342287/2b0b4fff-f5cf-4586-8a16-d23bf4e8f728)
 
-## UML
+## UML Diagrams
+
+## UML Case Diagram
 ![2023-03-03 03_56_57-UML CASE Diagram_ Lucidchart](https://github.com/mensahTribeWeb/_thermostat/assets/103342287/55ab6cb5-f4e6-4581-bbcf-6bc261b4353a)
 
 ## Deployment UML
@@ -12,13 +24,13 @@
 ## UML Sequence Diagram
 ![Smart Thermostat UML Sequence Diagram](https://github.com/mensahTribeWeb/_thermostat/assets/103342287/2aff306f-56cf-40fe-9915-90601bdc397f)
 
-## UML State
+## UML State Diagram
 ![2023-03-06 22_52_53-UML state diagram in-Home Smart thermostat_ Lucidchart](https://github.com/mensahTribeWeb/_thermostat/assets/103342287/32c94609-5d65-41ac-b0d9-f1f41f9a2441)
 
 ## Activity Diagram
 ![acticity_user_interface_UML](https://github.com/mensahTribeWeb/_thermostat/assets/103342287/0f16b044-a573-45df-b4a8-08b36e084817)
 
-## DFD Logic
+## Data Flow Diagram (DFD) Logic
 ![data_flow_diagram_logical_lucidchart_thermostat](https://github.com/mensahTribeWeb/_thermostat/assets/103342287/0c3c30b8-cce1-4a53-86ba-1a188c287bb1)
 
 ## UML Class Diagram
@@ -26,71 +38,71 @@
 ![UML_class_diagram_Lucidchart](https://github.com/mensahTribeWeb/_thermostat/assets/103342287/04c03bfd-5064-481e-960f-c9a995588c05)
 
 
+## Getting Started
 
+## Prerequisites
 
-## Available Scripts
+Ensure you have the following installed on your machine:
 
+- Node.js (v12 or higher)
+- npm (v6 or higher)
+- Java Development Kit (JDK) (v11 or higher)
+- Spring Boot (v2.4 or higher)
+  
+## Installation
+
+1) Clone the repository:
+
+   ```bash
+    git clone https://github.com/mensahTribeWeb/_thermostat.git
+    cd _thermostat
+   ```
+
+2) Install frontend dependencies:
+
+    ```bash
+    cd client
+    npm install
+   ```
+
+3) Install backend dependencies:
+
+    ```bash
+    cd ../server
+    ./mvnw install
+
+   ```
+## Running the Application
+
+1) Start the backend server:
+
+ ```bash
+   cd server
+  ./mvnw spring-boot:run
+   ```
+
+2) Start the frontend application:
+ ```bash
+  cd client
+  npm start
+   ```
+Open http://localhost:3000 to view the application in your browser.   
+
+## Usage
+### Available Scripts
 In the project directory, you can run:
 
-### `npm start`
+- `npm start:` Runs the app in development mode.
+- `npm test:` Launches the test runner in the interactive watch mode.
+- `npm run build:` Builds the app for production to the build folder.
+- `npm run eject:` Ejects the app from the Create React App configuration.
+  
+For more detailed information on these scripts, refer to the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+##Learn More
+[React documentation](https://reactjs.org/)
+[Create React App documentation](https://create-react-app.dev/docs/getting-started/)
+[Spring Boot documentation](https://spring.io/projects/spring-boot)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
