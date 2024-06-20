@@ -2,6 +2,29 @@
 
 ![image](https://github.com/mensahTribeWeb/_thermostat/assets/103342287/2b0b4fff-f5cf-4586-8a16-d23bf4e8f728)
 
+## UML
+![2023-03-03 03_56_57-UML CASE Diagram_ Lucidchart](https://github.com/mensahTribeWeb/_thermostat/assets/103342287/55ab6cb5-f4e6-4581-bbcf-6bc261b4353a)
+
+## Deployment UML
+![Deployment UML](https://github.com/mensahTribeWeb/_thermostat/assets/103342287/0600f522-4429-4449-947e-bfb70723c005)
+
+
+## UML Sequence Diagram
+![Smart Thermostat UML Sequence Diagram](https://github.com/mensahTribeWeb/_thermostat/assets/103342287/2aff306f-56cf-40fe-9915-90601bdc397f)
+
+## UML State
+![2023-03-06 22_52_53-UML state diagram in-Home Smart thermostat_ Lucidchart](https://github.com/mensahTribeWeb/_thermostat/assets/103342287/32c94609-5d65-41ac-b0d9-f1f41f9a2441)
+
+## Activity Diagram
+![acticity_user_interface_UML](https://github.com/mensahTribeWeb/_thermostat/assets/103342287/0f16b044-a573-45df-b4a8-08b36e084817)
+
+## DFD Logic
+![data_flow_diagram_logical_lucidchart_thermostat](https://github.com/mensahTribeWeb/_thermostat/assets/103342287/0c3c30b8-cce1-4a53-86ba-1a188c287bb1)
+
+## UML Class Diagram
+
+![UML_class_diagram_Lucidchart](https://github.com/mensahTribeWeb/_thermostat/assets/103342287/04c03bfd-5064-481e-960f-c9a995588c05)
+
 
 
 
